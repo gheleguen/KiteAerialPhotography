@@ -1,0 +1,33 @@
+site_name: Cerfs-volants_KonkArLab
+nav:
+    - Introduction: README.md
+    - 1. Nacelle: 
+      - 1.1 Nacelle à énergie éolienne: nacelle_fr.md
+    - 2. Cerf_volant:
+      - 2.1 Les cerfs-volants du commerce: Buy_KAP_fr.md
+      - 2.2 Eddy un cerf volant losange simple: made_eddy_fr.md
+      - 2.3 Cerf-volant R8 DIY: made_R8_fr.md
+    - tests: test_fr.md  
+    - Liens connexes: liens_connexes_fr.md
+
+     
+    
+        
+theme:
+    name: material
+    palette:
+      primary: green
+
+plugins:
+  - search
+  - i18n:
+      default_language: fr
+      languages:
+        fr: Français
+
+markdown_extensions:
+    - smarty
+    - sane_lists
+    - admonition
+    - toc:
+        permalink: true
