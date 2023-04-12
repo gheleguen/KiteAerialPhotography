@@ -1,0 +1,15 @@
+# Liens connexes
+
+ - [Tuto Rokkaku](http://ventsnick.free.fr/rokkakucv.html tuto rokkaku)
+ - [Des connecteurs pour un cerf-volant triangulaire (cc-by-nc)](https://www.thingiverse.com/thing:3885716/apps)
+ - [Quelques plans de cerf volant](http://gronier.chez.com/cerfsvplans.html)
+ - [Plan du Cody](https://www.kiteplans.org/planos/cody/cody.html)
+ - [Un essai de photo aérienne avec un Rokkaku](https://blognature.fr/la-photo-depuis-cerf-volant-jen-suis-kapable-premier-essai/)
+ - [Le carnet des plans du NCB](http://www.ncbkiteclub.org/wp-content/uploads/2013/10/carnet2013.pdf)
+ - [Plan conyne](http://www.fang-den-wind.de/conyne_engl.htm)
+ - [Modèle de couture pour conyne](https://www.softkites.com/Conyneplan.php)
+ - [un forum de la photo par cerf-volant](http://photocerfvolant.free.fr/phpBB2/index.php)
+ - [picavet à imprimé en 3D pour GoPro](https://www.thingiverse.com/thing:1672194)
+ - [Picavet découpé au laser et motorisable](https://www.thingiverse.com/thing:34200)
+ - [Une raspberry pour faire de la photogrametrie en cerf-volant](http://richardhayler.blogspot.com/2015/05/kite-mapping-with-raspberry-pi.html)
+ - [Faire du FPV avec un raspberry](https://www.deviceplus.com/raspberry-pi/diy-raspberry-pi-drone-part-3-fpv-setup-guide/)
