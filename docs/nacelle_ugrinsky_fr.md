@@ -41,7 +41,7 @@ Il a été question sur cette dernière version de réduire les frottements et d
 Je suis partis de deux modèles 3D partagés sur thingiverse : 
  - [Un premier proposant un mécanisme de picavet éolien](https://www.thingiverse.com/thing:681379) Qui par ailleur est l'inspiration unique pour la version 0.0.1
  - [Un second pour les dimentions de la turbine de Ugrinsky](https://www.thingiverse.com/thing:996946). Ce dernier tuto propose un plan de construction de cette turbine. Ce dernier m'a servi de base pour dessiner la turbine. 
-![plan_ugrinsky.jpg](pictures/plan_ugrinsky.jpg)
+![plan_ugrinsky.jpg](pictures/NU4-1.jpg)
 
 Afin de limiter les frottements, nous avons diminué les surface en contact comme par exemple entre le petit pignon et le tube d'aluminium en pratiquant un épaulement. 
 ![Nacelle Ugrinsky](pictures/NU4-2.png)
