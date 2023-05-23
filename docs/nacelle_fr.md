@@ -30,7 +30,7 @@ Imprimable en 3D, cette nacelle peut emporter une petite caméra de sport. Le sy
 
 
 ## 2- Impression
- - Imprimer l'ensemble des pièces présentent dans le [répertoire au chemin /hardware/0-0-1/nacelle_eol/3DPrint_files](https://github.com/KonkArLab/KAP_KiteAerialPhotography/tree/main/hardware/0-0-1/nacelle_eol/3DPrint_files)
+ - Imprimer l'ensemble des pièces présentent dans le [répertoire au chemin /hardware/0-0-1/nacelle_eol/3DPrint_files](https://github.com/gheleguen/KonkArLab_KAP_KiteAerialPhotography/tree/main/hardware/nacelle_eol/0-0-1/3DPrint_files)
  - Les paramètres utilisés étaient 0,2mm d’épaisseur de couche et 10 ou 15% de remplissage. 
  - Nous avons utilisés une Prusa I3 Mk3s et une Prusa mini. 
  - Seul les godets et les supports de godets s'impriment avec du support. 
