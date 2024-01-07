@@ -8,9 +8,8 @@
 |------|------|-----|--|
 |Toile de spi (2 bandes de 270mm*1500mm minimum)|![BK2-1.jpg](pictures/BK2-1.jpg)|[La boutique du cerf-volant](https://www.boutiqueducerfvolant.com/fr/153-tissu-spinnaker-mirai-.html)|1|
 |Fil de couture|![BK2-2.jpg](pictures/BK2-2.jpg)|Gütermann Polyesther|1 / couleur|
+|Tiges de bois de 1m de longueur et 6mm de diamètre.|![BK3-11.jpg](pictures/BK3-11.jpg)||4|
 |Bande extra-fort de 2,5cm de largeur|||4m|
-||||1|
-||||4|
 
 ### 2.2 Matériel
 |Dénomination|Visuel|Mon matériel|Qt|
@@ -19,7 +18,7 @@
 |Machine à coudre||Singer F527C|1|
 |Aiguille de machine à coudre|![BK2-3.jpg](pictures/BK2-3.jpg)|Schmetz Microtex T80/12|1|
 |Règles et mètres rubans|||1|
-|Craie de couture|||4|
+|Craie ou feutre de couture|||1|
  
 ## 3/ Réalisation
 
@@ -42,4 +41,25 @@
 ![BK3-10.jpg](pictures/BK3-10.png)
 ![BK3-4.jpg](pictures/BK3-4.jpg)
 
-- A l'autre extrémité des bandes extra-fort, coudre la seconde bande de toile de manière simétrique à la première. Toujours laisser dépasser l'extra-fort de la bande de toile de 3cm, ainsi que ne débuter la couture qu'à 3cm du bord. 
+- A l'autre extrémité des bandes extra-fort, coudre la seconde bande de toile de manière symétrique à la première. Toujours laisser dépasser l'extra-fort de la bande de toile de 3cm, ainsi que ne débuter la couture qu'à 3cm du bord. 
+
+ - Pour confectionner les goussets de longeron, replier l'extrafort sur lui même. Coudre de part et d'autre de manière a ce qu'une baguette de bois puisse y être inséré. 
+![BK3-12.jpg](pictures/BK3-12.jpg)
+
+ - Réaliser sur un des extrafort à 4cm du bord supérieur un trou au ciseaux, cautériser à l'aide d'un briquet. Ce trou permettra de passer la bride.
+![BK3-13.jpg](pictures/BK3-13.jpg)
+![BK3-14.png](pictures/BK3-14.png)
+
+ - Refermer les bandes en piquant le bord marqué d'une ligne sur le bord de l'extrafort opposé. 
+ - Faire de même sur les deux bandes en veillant à ne pas inverser le sens et ainsi éviter les vrilles. 
+![BK3-15.jpg](pictures/BK3-15.jpg)
+
+ - Insérer une baguette en bois dans un des goussets, tout en tendant fermement la bande, marquer la tige au feutre au en se servant du bord supérieur opposé. 
+![BK3-16.jpg](pictures/BK3-16.jpg)
+
+ - Couper cette première tige. Puis l'insérer le long d'une bande en la pliant légèrement afin qu'elle puisse rentrer dans les goussets opposés.
+![BK3-17.jpg](pictures/BK3-17.jpg)
+
+ - Tailler de la même manière les 4 baguettes. 
+ - Insérer les 4 tiges, chacune le long d'une bande d'extrafort.
+![BK3-18.jpg](pictures/BK3-18.jpg)
