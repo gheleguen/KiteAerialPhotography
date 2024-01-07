@@ -1,4 +1,8 @@
-site_name: Cerfs-volants_KonkArLab
+
+site_name: Cerfs-volants
+repo_url: https://github.com/gheleguen/KiteAerialPhotography
+edit_uri: -/edit/main/docs/
+
 nav:
     - Introduction: README.md
     - 1. Nacelles: 
@@ -22,10 +26,6 @@ theme:
 
 plugins:
   - search
-  - i18n:
-      default_language: fr
-      languages:
-        fr: Français
 
 markdown_extensions:
     - smarty
