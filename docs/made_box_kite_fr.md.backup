@@ -41,9 +41,11 @@ Cette documentation contient des connecteurs T de 6mm à clipser à imprimer en 
 
 |Dénomination|Visuel|Mes fournitures|Qt|
 |------|------|-----|--|
-|Le modèle 3D qui peut être téléchargé sur ce dépot|![BK3-5.png](pictures/BK3-5.png)|**STL : ** [La version .stl se télécharge directement dans l'archive](https://github.com/gheleguen/KiteAerialPhotography/blob/main/hardware/box_kite/BK_v0-1/connecteur_T_boxkite v3.stl) **Modifiable :** [En cas de besoin, il est possible de modifier la pièce en utilisant le fichier .f3D éditable sur Fusion360](https://github.com/gheleguen/KiteAerialPhotography/blob/main/hardware/box_kite/BK_v0-1/connecteur_T_boxkite v3.f3d)|1|
+|Le modèle 3D qui peut être téléchargé sur ce dépot|![BK3-5.png](pictures/BK3-5.png)|**STL : ** [La version .stl se télécharge directement dans l'archive](https://github.com/gheleguen/KiteAerialPhotography/blob/main/hardware/box_kite/BK_v0-1/connecteur_T_boxkite v3.stl) **Modifiable :** [En cas de besoin, il est possible de modifier la pièce en utilisant le fichier .f3D éditable sur Fusion360](https://github.com/gheleguen/KiteAerialPhotography/blob/main/hardware/box_kite/BK_v0-1/connecteur_T_boxkite v3.f3d)  Dans mon cas les 50cm de long des vergues ne suffisaient pas. J'ai donc modifié les connecteurs pour éloigner les accroches. [Cette version ajoute 6mm de longueur pour chaque extrémité](https://github.com/gheleguen/KiteAerialPhotography/blob/main/hardware/box_kite/BK_v0-1/connecteur_T_boxkite v2_m6mm.stl). |1|
 |Une imprimante 3D|![BK2-6.jpg](pictures/BK2-6.jpg)|Dans mon cas je dispose d'une [Prusa Mini+](https://www.prusa3d.com/fr/categorie/original-prusa-mini/) mais pour cette pièce à peut près toutes les imprimantes à filaments conviendront (FDM)|1|
 |10 g de filament de PETG ou PLA au diamètre adapté à l'imprimante utilisé|![BK2-7.jpg](pictures/BK2-7.jpg)|Je commande souvent mon filament chez [Arianeplast](https://www.arianeplast.com/) en France|1|
+
+
 
 **Imprimer les connecteurs :**
  - Imprimer **8 connecteurs**. 
