@@ -4,7 +4,7 @@ repo_url: https://github.com/gheleguen/KiteAerialPhotography
 edit_uri: -/edit/main/docs/
 
 nav:
-    - Introduction: README.md
+    - Introduction: index.md
     - 1. Nacelles: 
       - 0.0.2 Nacelle éol à turbine : nacelle_ugrinsky_fr.md
       - 0.0.1 Nacelle éol à godets: nacelle_fr.md
