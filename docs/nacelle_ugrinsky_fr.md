@@ -26,10 +26,12 @@ Il a été question sur cette dernière version de réduire les frottements et d
 </br></br> 
 ## 3/ Réalisation
 ### 3.1 Impression des pièces
-- Imprimer l'ensemble des pièces présentent dans le [répertoire au chemin /hardware/nacelle_eol/0-0-2/3DPrint_files](https://github.com/gheleguen/KonkArLab_KAP_KiteAerialPhotography/tree/main/hardware/nacelle_eol/0-0-2/3DPrint_files)
+- Imprimer l'ensemble des pièces présentent dans le [répertoire au chemin /hardware/nacelle_eol/0-0-2/stl](https://github.com/gheleguen/KonkArLab_KAP_KiteAerialPhotography/tree/main/hardware/nacelle_eol/0-0-2/stl)
  - Les paramètres utilisés étaient 0,2mm d’épaisseur de couche et 10 ou 15% de remplissage. 
  - Nous avons utilisés une Prusa I3 Mk3s et une Prusa mini. 
  - Nous avons utilisés du PLA de Arianeplast (Bleu navy et vert foncé). 
+
+Si vous rencontrez le besoin de modifier les pièces. Il est possible de le faire avec le logiciel Fusion 360 en téléchargants les fichiers modifiables et présents dans le [répertoire au chemin /hardware/nacelle_eol/0-0-2/f3d](https://github.com/gheleguen/KonkArLab_KAP_KiteAerialPhotography/tree/main/hardware/nacelle_eol/0-0-2/f3d)
 
 ### 3.2 Assemblage
  - Couper à l'aide d'un coupe tube ou d'une scie à métaux, un morceau de tube d'aluminium de 170mm de longueur.  
